@@ -20,3 +20,13 @@ the ```result``` folder contains all experimental results.
 * ```xxx.log```: experiment log.
 * ```result_xxx.txt```: generated failed test cases.
 * ```result.xlsx```: experimental analysis data.
+
+## STARLA experiments
+
+STARLA algorithm includes two parts: generating test cases and execute them. The results are regarded as the executed ones. Main code files are as follows:
+
+* ```STARLA.py```: generate test cases.
+* ```Execute_Results.py```: execute results in ```Results``` folder.
+* ```random_test.py```: an example for using the environment. 
+
+Note: ```STARLA.py``` and ```Execute_Results.py``` are modified from [STARLA](https://github.com/amirhosseinzlf/STARLA) under MIT license.
