@@ -29,3 +29,7 @@ STARLA algorithm includes two parts: generating test cases and execute them. The
 * ```random_test.py```: an example for using the environment. 
 
 Note: ```STARLA.py``` and ```Execute_Results.py``` are modified from [STARLA](https://github.com/amirhosseinzlf/STARLA) under MIT license.
+
+## Additional Information.pdf
+Additional Information.pdf introduces the replication experiments and results analysis of the STARLA method, applying STARLA to test trained agents on the Flappy Bird, Pong, and Catcher tasks. 
+The experimental results showcase certain characteristics of STARLA and validate the limitations pointed out by the authors in their paper within the mentioned tasks.
